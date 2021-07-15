@@ -42,5 +42,7 @@ var data = [
   ],
 ]
 
-export{data};
+const data_emb = document.createElement("p");
+data_emb.innerHTML = "Hello, World!";
+document.body.append(data_emb);
 
