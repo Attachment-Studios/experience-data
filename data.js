@@ -25,7 +25,7 @@
   ]
 */
 
-data = [
+var data = [
   [
     "The Box",
     "The Box is an easy simple arcade game about jumping.",
@@ -41,3 +41,6 @@ data = [
     ]
   ],
 ]
+
+export{data};
+
